@@ -91,23 +91,23 @@ if you want to develop more database use  My SQL Workbench for easy to add more 
 - Delete Work Type
 
 **Employee Management**
-Add New Employee
-List All Employees
-View Employee Details
-Update Employee Details
-Delete Employee Details
+- Add New Employee
+- List All Employees
+- View Employee Details
+- Update Employee Details
+- Delete Employee Details
 
 **Project Management**
--Add New Project
--List All Project
--View Project Details
--Update Project Details
--List Project's Employees Report List
--View Employees Report
--Overwrite Employees Report
--Delete Employees Report
--Close Project
--Delete Project Record
+- Add New Project
+- List All Project
+- View Project Details
+- Update Project Details
+- List Project's Employees Report List
+- View Employees Report
+- Overwrite Employees Report
+- Delete Employees Report
+- Close Project
+- Delete Project Record
 
 **Reports**
 - Total Rendered Time
