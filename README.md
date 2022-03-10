@@ -136,17 +136,21 @@ if you want to develop more database use  My SQL Workbench for easy to add more 
 - Print Reports
 - Manage Account Details/
 
-# user password for this website
+# user admin for this website
 **admin**
 - jimmyyjp password 9981
 - phuwin password 9981
 - fforce password 9981
 - kasibook password 9981
+
+# user staff for this website
 **staff**
 - ppromxx password 9981
 - seatawinan password 9981
 - bbverpj password 9981
 - firstkp password 9981
+
+# user Employee for this website
 **Employee**
 - yin@nu.ac.th password 9981
 - bestboom@nu.ac.th password 9981
